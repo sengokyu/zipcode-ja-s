@@ -8,7 +8,7 @@
   },
   "bin": {
     "split-zipcode-ja":"bin/split-zipcode-ja.js"
-  }
+  },
   "keywords": [
     "Japan",
     "ZipCode",
