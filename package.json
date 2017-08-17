@@ -1,14 +1,22 @@
 {
   "name": "zipcode-ja-s",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zipcode-ja (https://www.npmjs.com/package/zipcode-ja) is a very huge object. This package gives many splited json files.",
-  "main": "index.js",
+  "main": "bin/split-zipcode-ja.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "split-zipcode-ja":"bin/split-zipcode-ja.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sengokyu/zipcode-ja-s.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sengokyu/zipcode-ja-s/issues"
+  },
+  "homepage": "https://github.com/sengokyu/zipcode-ja-s#readme",
   "keywords": [
     "Japan",
     "ZipCode",
