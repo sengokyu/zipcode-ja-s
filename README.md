@@ -2,7 +2,7 @@
 
 ## Preface
 
-The zipcode-ja package provided very huge object which includes all postal code in Japan.
+The zipcode-ja package provide simple useful very huge object which includes all postal codes in Japan.
 
 This program makes the huge object split into many JSON files.
 
@@ -17,10 +17,10 @@ $ npm install zipcode-ja-s
 
 ~~~
 $ mkdir tmpdest
-$ node_modules/bin/split-zipcode-ja tmpdest
+$ ./node_modules/bin/split-zipcode-ja tmpdest
 ~~~
 
-So, you can get many JSON files.
+So, you will get many JSON files.
 
 ~~~
 $ ls tmpdest
