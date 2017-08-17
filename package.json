@@ -1,0 +1,22 @@
+{
+  "name": "zipcode-ja-s",
+  "version": "0.0.1",
+  "description": "Zipcode-ja (https://www.npmjs.com/package/zipcode-ja) is a very huge object. This package gives many splited json files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Japan",
+    "ZipCode",
+    "Zip Code",
+    "PostalCode",
+    "Postal Code",
+    "JAPANPOST"
+  ],
+  "author": "sengokyu",
+  "license": "MIT",
+  "devDependencies": {
+    "zipcode-ja": "0.0.3"
+  }
+}
